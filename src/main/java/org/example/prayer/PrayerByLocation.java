@@ -27,11 +27,11 @@ public class PrayerByLocation implements PrayerByGeo {
         formatter.setTimeZone(TimeZone.getTimeZone("Asia/Riyadh"));
 
         return new StringBuilder("\nPrayer Times\n")
-                .append(formatter.format(prayerTimes.fajr) + "\n")
-                .append(formatter.format(prayerTimes.dhuhr) + "\n")
-                .append(formatter.format(prayerTimes.asr) + "\n")
-                .append(formatter.format(prayerTimes.maghrib) + "\n")
-                .append(formatter.format(prayerTimes.isha)).toString();
+                .append("Fajr: "+formatter.format(prayerTimes.fajr) + "\n")
+                .append("Dhuhr: "+formatter.format(prayerTimes.dhuhr) + "\n")
+                .append("Asr: "+formatter.format(prayerTimes.asr) + "\n")
+                .append("Maghrib: "+formatter.format(prayerTimes.maghrib) + "\n")
+                .append("Isha: "+formatter.format(prayerTimes.isha)).toString();
 
     }
 }
