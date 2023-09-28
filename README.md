@@ -10,5 +10,7 @@ If the user selects the city they want
 ![image](https://github.com/NawafIT/AdahnApp/assets/110320315/dd392842-bcd4-43d2-9cf5-5ac864614f08)
 
 
+You can allow the user to enter any city name. Then, connect to an API to retrieve the latitude and longitude. This approach will be more automatic!
+
 
 
