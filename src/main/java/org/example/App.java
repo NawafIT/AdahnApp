@@ -47,7 +47,7 @@ public class App {
 
         }
     }
-    
+
     public static void jeddahCity(String city, PrayerCity byCity) {
         System.out.println(byCity.prayerByCity(city));
 
