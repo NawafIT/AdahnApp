@@ -5,3 +5,10 @@ The user can choose which city they want
 
 If the user enters something not in the list, the list will repeat again.
 ![image](https://github.com/NawafIT/AdahnApp/assets/110320315/98cb6694-dc28-4d51-93e3-3097f7b89739)
+
+If the user selects the city they want
+![image](https://github.com/NawafIT/AdahnApp/assets/110320315/dd392842-bcd4-43d2-9cf5-5ac864614f08)
+
+
+
+
